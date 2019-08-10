@@ -1,0 +1,40 @@
+{
+  "private": true,
+  "theia": {
+    "target":"browser",
+    "next":true,
+    "frontend": {
+      "config": {
+        "applicationName": "Theia Browser Example",
+        "preferences": {
+          "files.enableTrash": false
+        }
+      }
+    }
+  },
+  "dependencies": {
+    "@theia/callhierarchy": "next",
+    "@theia/file-search": "next",
+    "@theia/git": "next",
+    "@theia/json": "next",
+    "@theia/markers": "next",
+    "@theia/merge-conflicts": "next",
+    "@theia/messages": "next",
+    "@theia/mini-browser": "next",
+    "@theia/navigator": "next",
+    "@theia/outline-view": "next",
+    "@theia/plugin-dev": "^0.9.0",
+    "@theia/plugin-ext": "^0.9.0",
+    "@theia/plugin-ext-vscode": "^0.9.0",
+    "@theia/preferences": "next",
+    "@theia/preview": "next",
+    "@theia/search-in-workspace": "next",
+    "@theia/terminal": "next",
+    "@theia/textmate-grammars": "next",
+    "@theia/typescript": "next",
+    "typescript": "latest"
+  },
+  "devDependencies": {
+    "@theia/cli": "next"
+  }
+}
