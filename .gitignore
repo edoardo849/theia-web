@@ -1,2 +1,5 @@
-node_modules/
-.theia/
+node_modules
+.theia
+src-gen
+lib
+*.config.js

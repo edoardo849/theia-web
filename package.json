@@ -22,7 +22,6 @@
     "@theia/file-search": "next",
     "@theia/filesystem":"next",
     "@theia/git": "next",
-    "@theia/go":"next",
     "@theia/json": "next",
     "@theia/keymaps":"next",
     "@theia/languages":"next",
