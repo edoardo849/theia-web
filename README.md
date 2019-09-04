@@ -42,7 +42,7 @@ yarn run theia start --plugins=local-dir:../theia-plugins --hostname 0.0.0.0 --p
 
 ```
 
-Now you can open your browser and navigate to <your-domain>:8444 or <your-ip>:8444 and start using Theia.
+Now you can open your browser and navigate to `your-domain:8444` or `your-ip:8444` and start using Theia.
 
 ## Install a VsCode extenstion
 
